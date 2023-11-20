@@ -10,6 +10,7 @@ input {
 #button-to-convert{
     background: darkblue;
     color: white;
+    width: 500px;
 }
 .contador{
     font-size: 10px;
