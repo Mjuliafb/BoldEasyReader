@@ -14,3 +14,8 @@ input {
 .contador{
     font-size: 10px;
 }
+
+#texto{
+    height: 100px;
+    width: 500px;
+}
